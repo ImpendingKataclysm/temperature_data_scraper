@@ -1,2 +1,2 @@
 home:
-  css: '#temperatureId'
+  css: '#temperatureId > b'
